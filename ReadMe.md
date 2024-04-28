@@ -47,7 +47,7 @@ In the attached image you can see the final parameters that we used for our prin
 
 ## Step 4: Printing with Clay 
 
-![](Images/ClayPrinting.gif)
+![](Images/Printing.jpg)
 
 Turning our digital design into a tangible clay structure posed challenges, especially in preparing for 3D printing. It took us a bunch of tries, considering factors like wall thickness and print speed.
 
